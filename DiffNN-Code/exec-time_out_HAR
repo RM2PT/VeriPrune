@@ -1,0 +1,1000 @@
+./delta_network_test 1000 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000472 -0.000887 -0.001654 -0.003701 -0.003035 -0.001524 ]
+[0.003826 0.002625 0.002339 0.002544 0.002976 0.004314 ]
+
+No adv!
+time: 0.096037 
+
+
+numSplits: 0
+./delta_network_test 1001 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000096 -0.000547 -0.001274 -0.002456 -0.002219 -0.001253 ]
+[0.003552 0.002163 0.001959 0.001651 0.001965 0.003814 ]
+
+No adv!
+time: 0.095805 
+
+
+numSplits: 0
+./delta_network_test 1002 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000250 -0.000355 -0.001068 -0.002281 -0.001998 -0.001004 ]
+[0.002999 0.001924 0.001661 0.001295 0.001683 0.003596 ]
+
+No adv!
+time: 0.096039 
+
+
+numSplits: 0
+./delta_network_test 1003 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000061 -0.000494 -0.001123 -0.002311 -0.002132 -0.001158 ]
+[0.003263 0.002027 0.001790 0.001307 0.001684 0.003650 ]
+
+No adv!
+time: 0.095080 
+
+
+numSplits: 0
+./delta_network_test 1004 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000029 -0.000469 -0.001211 -0.002140 -0.001983 -0.001235 ]
+[0.003190 0.001923 0.001717 0.001230 0.001592 0.003497 ]
+
+No adv!
+time: 0.103175 
+
+
+numSplits: 0
+./delta_network_test 1005 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000123 -0.000447 -0.001111 -0.002205 -0.002028 -0.001125 ]
+[0.003134 0.002028 0.001679 0.001297 0.001671 0.003480 ]
+
+No adv!
+time: 0.091028 
+
+
+numSplits: 0
+./delta_network_test 1006 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000214 -0.000343 -0.000944 -0.001888 -0.001814 -0.000914 ]
+[0.003036 0.001914 0.001589 0.001027 0.001342 0.003330 ]
+
+No adv!
+time: 0.092328 
+
+
+numSplits: 0
+./delta_network_test 1007 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000280 -0.000246 -0.000903 -0.001840 -0.001676 -0.000950 ]
+[0.002907 0.001780 0.001542 0.000814 0.001179 0.003211 ]
+
+No adv!
+time: 0.090813 
+
+
+numSplits: 0
+./delta_network_test 1008 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000185 -0.000290 -0.000875 -0.001648 -0.001541 -0.001031 ]
+[0.003067 0.001924 0.001573 0.000681 0.001066 0.003199 ]
+
+No adv!
+time: 0.094678 
+
+
+numSplits: 0
+./delta_network_test 1009 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000292 -0.000292 -0.000849 -0.001851 -0.001563 -0.000905 ]
+[0.002847 0.001764 0.001539 0.000683 0.001120 0.003214 ]
+
+No adv!
+time: 0.099682 
+
+
+numSplits: 0
+./delta_network_test 1010 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000273 -0.000302 -0.000930 -0.001821 -0.001578 -0.000877 ]
+[0.002845 0.001788 0.001502 0.000740 0.001156 0.003281 ]
+
+No adv!
+time: 0.100166 
+
+
+numSplits: 0
+./delta_network_test 1011 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000360 -0.000276 -0.000889 -0.001771 -0.001429 -0.000832 ]
+[0.002734 0.001760 0.001433 0.000586 0.001054 0.003160 ]
+
+No adv!
+time: 0.092644 
+
+
+numSplits: 0
+./delta_network_test 1012 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000332 -0.000242 -0.000816 -0.001707 -0.001436 -0.000826 ]
+[0.002782 0.001725 0.001426 0.000636 0.001053 0.003257 ]
+
+No adv!
+time: 0.091159 
+
+
+numSplits: 0
+./delta_network_test 1013 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000264 -0.000296 -0.000907 -0.001822 -0.001616 -0.000972 ]
+[0.002799 0.001746 0.001529 0.000764 0.001134 0.003358 ]
+
+No adv!
+time: 0.090942 
+
+
+numSplits: 0
+./delta_network_test 1014 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000209 -0.000270 -0.000914 -0.001803 -0.001663 -0.000897 ]
+[0.002838 0.001825 0.001553 0.000840 0.001203 0.003293 ]
+
+No adv!
+time: 0.090548 
+
+
+numSplits: 0
+./delta_network_test 1015 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000055 -0.000490 -0.001238 -0.002055 -0.001938 -0.001391 ]
+[0.003178 0.002191 0.002007 0.001221 0.001506 0.003830 ]
+
+No adv!
+time: 0.090403 
+
+
+numSplits: 0
+./delta_network_test 1016 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000251 -0.000685 -0.001487 -0.002525 -0.002378 -0.001498 ]
+[0.003640 0.002613 0.002087 0.001766 0.002150 0.004121 ]
+
+No adv!
+time: 0.090409 
+
+
+numSplits: 0
+./delta_network_test 1017 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000024 -0.000470 -0.001204 -0.001826 -0.001853 -0.001154 ]
+[0.003546 0.002191 0.001733 0.001081 0.001387 0.003616 ]
+
+No adv!
+time: 0.091118 
+
+
+numSplits: 0
+./delta_network_test 1018 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000040 -0.000494 -0.001124 -0.001818 -0.001843 -0.001286 ]
+[0.003443 0.002144 0.001769 0.000982 0.001292 0.003647 ]
+
+No adv!
+time: 0.090378 
+
+
+numSplits: 0
+./delta_network_test 1019 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000055 -0.000603 -0.001450 -0.002490 -0.002293 -0.001459 ]
+[0.003260 0.002316 0.001981 0.001693 0.001981 0.004102 ]
+
+No adv!
+time: 0.091061 
+
+
+numSplits: 0
+./delta_network_test 1020 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000078 -0.000676 -0.001532 -0.002695 -0.002445 -0.001522 ]
+[0.003486 0.002408 0.002127 0.002046 0.002325 0.004229 ]
+
+No adv!
+time: 0.089770 
+
+
+numSplits: 0
+./delta_network_test 1021 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000023 -0.000656 -0.001450 -0.002568 -0.002276 -0.001627 ]
+[0.003260 0.002261 0.002094 0.001769 0.002167 0.004302 ]
+
+No adv!
+time: 0.093212 
+
+
+numSplits: 0
+./delta_network_test 1022 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000362 -0.000965 -0.001700 -0.003540 -0.003006 -0.002102 ]
+[0.003684 0.002619 0.002487 0.002483 0.002944 0.004507 ]
+
+No adv!
+time: 0.094470 
+
+
+numSplits: 0
+./delta_network_test 1023 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000346 -0.000822 -0.001676 -0.003302 -0.002999 -0.001890 ]
+[0.003551 0.002641 0.002405 0.002321 0.002750 0.004266 ]
+
+No adv!
+time: 0.091983 
+
+
+numSplits: 0
+./delta_network_test 1024 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000288 -0.000441 -0.001001 -0.002211 -0.002068 -0.000976 ]
+[0.003078 0.001996 0.001622 0.001388 0.001737 0.003554 ]
+
+No adv!
+time: 0.093448 
+
+
+numSplits: 0
+./delta_network_test 1025 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000207 -0.000398 -0.000982 -0.002014 -0.001949 -0.000978 ]
+[0.003184 0.002073 0.001776 0.001209 0.001519 0.003539 ]
+
+No adv!
+time: 0.092611 
+
+
+numSplits: 0
+./delta_network_test 1026 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000004 -0.000435 -0.001094 -0.001795 -0.001806 -0.001254 ]
+[0.003278 0.002171 0.001746 0.001032 0.001333 0.003718 ]
+
+No adv!
+time: 0.089730 
+
+
+numSplits: 0
+./delta_network_test 1027 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000023 -0.000448 -0.001097 -0.001856 -0.001792 -0.001218 ]
+[0.003222 0.002060 0.001768 0.000997 0.001312 0.003777 ]
+
+No adv!
+time: 0.092796 
+
+
+numSplits: 0
+./delta_network_test 1028 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000063 -0.000401 -0.000997 -0.001682 -0.001724 -0.001117 ]
+[0.003239 0.002016 0.001759 0.000911 0.001219 0.003678 ]
+
+No adv!
+time: 0.091500 
+
+
+numSplits: 0
+./delta_network_test 1029 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000022 -0.000343 -0.001037 -0.001708 -0.001724 -0.001037 ]
+[0.003191 0.002052 0.001647 0.000864 0.001199 0.003703 ]
+
+No adv!
+time: 0.090710 
+
+
+numSplits: 0
+./delta_network_test 1030 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000148 -0.000243 -0.000992 -0.001522 -0.001378 -0.000898 ]
+[0.003088 0.002020 0.001495 0.000700 0.001047 0.003457 ]
+
+No adv!
+time: 0.090243 
+
+
+numSplits: 0
+./delta_network_test 1031 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000163 -0.000612 -0.001299 -0.002307 -0.001996 -0.001317 ]
+[0.003398 0.002201 0.002000 0.001515 0.001922 0.003629 ]
+
+No adv!
+time: 0.092137 
+
+
+numSplits: 0
+./delta_network_test 1032 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000096 -0.000413 -0.001116 -0.001796 -0.001504 -0.001103 ]
+[0.003286 0.001969 0.001732 0.000781 0.001175 0.003252 ]
+
+No adv!
+time: 0.090360 
+
+
+numSplits: 0
+./delta_network_test 1033 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000356 -0.000247 -0.000846 -0.002016 -0.001532 -0.000610 ]
+[0.002892 0.001699 0.001481 0.000647 0.001050 0.002761 ]
+
+No adv!
+time: 0.091578 
+
+
+numSplits: 0
+./delta_network_test 1034 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000101 -0.000381 -0.001087 -0.001811 -0.001615 -0.001134 ]
+[0.003198 0.001965 0.001698 0.000740 0.001101 0.003315 ]
+
+No adv!
+time: 0.091184 
+
+
+numSplits: 0
+./delta_network_test 1035 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000222 -0.000239 -0.000956 -0.001787 -0.001483 -0.000928 ]
+[0.003025 0.001831 0.001626 0.000686 0.001078 0.003181 ]
+
+No adv!
+time: 0.091512 
+
+
+numSplits: 0
+./delta_network_test 1036 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000448 -0.000129 -0.000860 -0.001919 -0.001473 -0.000664 ]
+[0.002719 0.001631 0.001434 0.000701 0.001110 0.002895 ]
+
+No adv!
+time: 0.090920 
+
+
+numSplits: 0
+./delta_network_test 1037 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000207 -0.000368 -0.000907 -0.002014 -0.001635 -0.001071 ]
+[0.003033 0.001835 0.001605 0.000815 0.001241 0.003181 ]
+
+No adv!
+time: 0.092207 
+
+
+numSplits: 0
+./delta_network_test 1038 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000104 -0.000458 -0.000997 -0.002062 -0.001697 -0.001115 ]
+[0.003033 0.001902 0.001632 0.000786 0.001249 0.003240 ]
+
+No adv!
+time: 0.093883 
+
+
+numSplits: 0
+./delta_network_test 1039 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000311 -0.000287 -0.000849 -0.001814 -0.001432 -0.000977 ]
+[0.002691 0.001790 0.001454 0.000677 0.001103 0.003125 ]
+
+No adv!
+time: 0.092962 
+
+
+numSplits: 0
+./delta_network_test 1040 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000368 -0.000184 -0.000768 -0.001744 -0.001368 -0.000822 ]
+[0.002680 0.001692 0.001402 0.000623 0.001057 0.003043 ]
+
+No adv!
+time: 0.093934 
+
+
+numSplits: 0
+./delta_network_test 1041 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000353 -0.000299 -0.000910 -0.001999 -0.001574 -0.000898 ]
+[0.002758 0.001826 0.001559 0.000813 0.001219 0.003142 ]
+
+No adv!
+time: 0.091879 
+
+
+numSplits: 0
+./delta_network_test 1042 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000319 -0.000234 -0.000851 -0.001682 -0.001449 -0.000801 ]
+[0.002838 0.001833 0.001551 0.000696 0.001112 0.003032 ]
+
+No adv!
+time: 0.090486 
+
+
+numSplits: 0
+./delta_network_test 1043 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000039 -0.000369 -0.001047 -0.001657 -0.001428 -0.001147 ]
+[0.003083 0.001996 0.001727 0.000698 0.001119 0.003429 ]
+
+No adv!
+time: 0.090244 
+
+
+numSplits: 0
+./delta_network_test 1044 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000382 -0.000827 -0.001621 -0.002911 -0.002327 -0.001768 ]
+[0.003673 0.002583 0.002298 0.001805 0.002250 0.003911 ]
+
+No adv!
+time: 0.093272 
+
+
+numSplits: 0
+./delta_network_test 1045 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000144 -0.000641 -0.001274 -0.002076 -0.001922 -0.001548 ]
+[0.003357 0.002232 0.001960 0.000940 0.001383 0.003782 ]
+
+No adv!
+time: 0.090299 
+
+
+numSplits: 0
+./delta_network_test 1046 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000165 -0.000521 -0.001075 -0.001878 -0.001591 -0.000977 ]
+[0.003278 0.001912 0.001658 0.000867 0.001248 0.003162 ]
+
+No adv!
+time: 0.091333 
+
+
+numSplits: 0
+./delta_network_test 1047 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000289 -0.000434 -0.000950 -0.001852 -0.001492 -0.000954 ]
+[0.002861 0.001827 0.001504 0.000717 0.001114 0.003337 ]
+
+No adv!
+time: 0.091251 
+
+
+numSplits: 0
+./delta_network_test 1048 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000476 -0.000185 -0.000899 -0.002169 -0.001794 -0.000590 ]
+[0.002774 0.001751 0.001432 0.001050 0.001516 0.003032 ]
+
+No adv!
+time: 0.091944 
+
+
+numSplits: 0
+./delta_network_test 1049 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000390 -0.000252 -0.000947 -0.002335 -0.001863 -0.000684 ]
+[0.002834 0.001768 0.001582 0.001212 0.001711 0.003063 ]
+
+No adv!
+time: 0.091591 
+
+
+numSplits: 0
+./delta_network_test 1050 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000143 -0.000348 -0.001064 -0.001879 -0.001626 -0.000793 ]
+[0.003158 0.001896 0.001679 0.000760 0.001200 0.003219 ]
+
+No adv!
+time: 0.090614 
+
+
+numSplits: 0
+./delta_network_test 1051 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000032 -0.000352 -0.001011 -0.001691 -0.001489 -0.000928 ]
+[0.003187 0.001870 0.001598 0.000646 0.001071 0.003259 ]
+
+No adv!
+time: 0.094501 
+
+
+numSplits: 0
+./delta_network_test 1052 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000228 -0.000230 -0.000927 -0.001810 -0.001551 -0.000794 ]
+[0.002835 0.001709 0.001426 0.000709 0.001128 0.003107 ]
+
+No adv!
+time: 0.092842 
+
+
+numSplits: 0
+./delta_network_test 1053 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000294 -0.000167 -0.000785 -0.001641 -0.001300 -0.000567 ]
+[0.002823 0.001632 0.001292 0.000516 0.000877 0.002845 ]
+
+No adv!
+time: 0.091085 
+
+
+numSplits: 0
+./delta_network_test 1054 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000106 -0.000425 -0.000961 -0.001817 -0.001504 -0.000997 ]
+[0.003048 0.001944 0.001582 0.000718 0.001127 0.003201 ]
+
+No adv!
+time: 0.098069 
+
+
+numSplits: 0
+./delta_network_test 1055 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000925 -0.001641 -0.002087 -0.003412 -0.002273 -0.002884 ]
+[0.003916 0.002816 0.002858 0.001887 0.002585 0.006637 ]
+
+No adv!
+time: 0.096740 
+
+
+numSplits: 0
+./delta_network_test 1056 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000418 -0.001235 -0.001735 -0.002672 -0.001746 -0.002470 ]
+[0.003582 0.002308 0.002478 0.001098 0.001767 0.005877 ]
+
+No adv!
+time: 0.091531 
+
+
+numSplits: 0
+./delta_network_test 1057 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000404 -0.001116 -0.001564 -0.002395 -0.001507 -0.002586 ]
+[0.003410 0.002218 0.002179 0.000766 0.001501 0.005597 ]
+
+No adv!
+time: 0.090762 
+
+
+numSplits: 0
+./delta_network_test 1058 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000232 -0.001000 -0.001284 -0.002020 -0.001082 -0.002376 ]
+[0.003117 0.001996 0.001810 0.000472 0.001114 0.005612 ]
+
+No adv!
+time: 0.090779 
+
+
+numSplits: 0
+./delta_network_test 1059 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000193 -0.000898 -0.001196 -0.001990 -0.000993 -0.002246 ]
+[0.003050 0.002000 0.001756 0.000411 0.001110 0.005602 ]
+
+No adv!
+time: 0.090534 
+
+
+numSplits: 0
+./delta_network_test 1060 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000147 -0.000912 -0.001121 -0.002000 -0.001011 -0.002366 ]
+[0.003034 0.001994 0.001700 0.000422 0.001112 0.005461 ]
+
+No adv!
+time: 0.091369 
+
+
+numSplits: 0
+./delta_network_test 1061 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000071 -0.000918 -0.001175 -0.002103 -0.001068 -0.002239 ]
+[0.002979 0.001993 0.001739 0.000463 0.001184 0.005408 ]
+
+No adv!
+time: 0.090639 
+
+
+numSplits: 0
+./delta_network_test 1062 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000077 -0.000970 -0.001189 -0.002063 -0.001111 -0.002290 ]
+[0.003185 0.002152 0.001872 0.000485 0.001154 0.005651 ]
+
+No adv!
+time: 0.091065 
+
+
+numSplits: 0
+./delta_network_test 1063 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000210 -0.000969 -0.001324 -0.002032 -0.001098 -0.002413 ]
+[0.003285 0.002154 0.001914 0.000544 0.001093 0.005977 ]
+
+No adv!
+time: 0.095536 
+
+
+numSplits: 0
+./delta_network_test 1064 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000343 -0.001113 -0.001427 -0.002135 -0.001202 -0.002488 ]
+[0.003272 0.002209 0.001976 0.000534 0.001183 0.005881 ]
+
+No adv!
+time: 0.090717 
+
+
+numSplits: 0
+./delta_network_test 1065 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000405 -0.001187 -0.001508 -0.002051 -0.001163 -0.002581 ]
+[0.003339 0.002267 0.002007 0.000563 0.001138 0.006165 ]
+
+No adv!
+time: 0.092782 
+
+
+numSplits: 0
+./delta_network_test 1066 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000820 -0.001474 -0.002271 -0.003228 -0.002168 -0.002903 ]
+[0.004049 0.002845 0.002991 0.001747 0.002502 0.006929 ]
+
+No adv!
+time: 0.090943 
+
+
+numSplits: 0
+./delta_network_test 1067 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000660 -0.001304 -0.001912 -0.002630 -0.001744 -0.002755 ]
+[0.003700 0.002466 0.002590 0.001161 0.001859 0.006411 ]
+
+No adv!
+time: 0.090607 
+
+
+numSplits: 0
+./delta_network_test 1068 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000582 -0.001244 -0.001717 -0.002753 -0.001702 -0.002319 ]
+[0.003468 0.002391 0.002491 0.001088 0.001813 0.005758 ]
+
+No adv!
+time: 0.092272 
+
+
+numSplits: 0
+./delta_network_test 1069 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000481 -0.001111 -0.001626 -0.002617 -0.001604 -0.002267 ]
+[0.003377 0.002330 0.002324 0.000871 0.001606 0.005616 ]
+
+No adv!
+time: 0.090561 
+
+
+numSplits: 0
+./delta_network_test 1070 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000475 -0.000982 -0.001527 -0.002560 -0.001610 -0.002138 ]
+[0.003262 0.002294 0.002227 0.000711 0.001426 0.005221 ]
+
+No adv!
+time: 0.088758 
+
+
+numSplits: 0
+./delta_network_test 1071 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000475 -0.001006 -0.001479 -0.002638 -0.001610 -0.002226 ]
+[0.003216 0.002297 0.002173 0.000698 0.001456 0.005319 ]
+
+No adv!
+time: 0.090916 
+
+
+numSplits: 0
+./delta_network_test 1072 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000522 -0.001069 -0.001555 -0.002575 -0.001601 -0.002163 ]
+[0.003212 0.002293 0.002180 0.000718 0.001428 0.005358 ]
+
+No adv!
+time: 0.091068 
+
+
+numSplits: 0
+./delta_network_test 1073 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000368 -0.001086 -0.001469 -0.002542 -0.001554 -0.002104 ]
+[0.003253 0.002240 0.002162 0.000703 0.001385 0.005525 ]
+
+No adv!
+time: 0.091746 
+
+
+numSplits: 0
+./delta_network_test 1074 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000488 -0.001155 -0.001619 -0.002512 -0.001601 -0.002330 ]
+[0.003371 0.002319 0.002315 0.000765 0.001476 0.005724 ]
+
+No adv!
+time: 0.091434 
+
+
+numSplits: 0
+./delta_network_test 1075 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000540 -0.001155 -0.001615 -0.002512 -0.001566 -0.002380 ]
+[0.003385 0.002287 0.002319 0.000709 0.001441 0.005796 ]
+
+No adv!
+time: 0.089674 
+
+
+numSplits: 0
+./delta_network_test 1076 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000433 -0.001109 -0.001576 -0.002592 -0.001625 -0.002315 ]
+[0.003309 0.002321 0.002258 0.000862 0.001498 0.005793 ]
+
+No adv!
+time: 0.093512 
+
+
+numSplits: 0
+./delta_network_test 1077 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000540 -0.001154 -0.001576 -0.002562 -0.001587 -0.002376 ]
+[0.003294 0.002370 0.002144 0.000734 0.001490 0.005808 ]
+
+No adv!
+time: 0.091195 
+
+
+numSplits: 0
+./delta_network_test 1078 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000452 -0.001112 -0.001439 -0.002522 -0.001590 -0.002042 ]
+[0.003189 0.002227 0.002077 0.000686 0.001437 0.005402 ]
+
+No adv!
+time: 0.090111 
+
+
+numSplits: 0
+./delta_network_test 1079 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000042 -0.000351 -0.001008 -0.002414 -0.000659 -0.000514 ]
+[0.003178 0.002500 0.002005 0.000536 0.001761 0.003971 ]
+
+No adv!
+time: 0.091338 
+
+
+numSplits: 0
+./delta_network_test 1080 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000342 -0.000773 -0.001218 -0.002675 -0.000959 -0.001151 ]
+[0.003448 0.002785 0.002305 0.000643 0.001993 0.004532 ]
+
+No adv!
+time: 0.091459 
+
+
+numSplits: 0
+./delta_network_test 1081 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000256 -0.000726 -0.001173 -0.002630 -0.000825 -0.001140 ]
+[0.003428 0.002772 0.002330 0.000645 0.002025 0.004499 ]
+
+No adv!
+time: 0.091450 
+
+
+numSplits: 0
+./delta_network_test 1082 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000360 -0.000890 -0.001292 -0.002712 -0.001028 -0.001353 ]
+[0.003633 0.003036 0.002335 0.000910 0.002167 0.004968 ]
+
+No adv!
+time: 0.091003 
+
+
+numSplits: 0
+./delta_network_test 1083 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000045 -0.000473 -0.001222 -0.002686 -0.000938 -0.000801 ]
+[0.003457 0.002637 0.002260 0.000895 0.002051 0.004258 ]
+
+No adv!
+time: 0.090955 
+
+
+numSplits: 0
+./delta_network_test 1084 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000010 -0.000414 -0.000999 -0.002407 -0.000712 -0.000607 ]
+[0.003347 0.002572 0.002113 0.000616 0.001855 0.004155 ]
+
+No adv!
+time: 0.090794 
+
+
+numSplits: 0
+./delta_network_test 1085 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000188 -0.000621 -0.001086 -0.002459 -0.000791 -0.000841 ]
+[0.003380 0.002780 0.002182 0.000715 0.002030 0.004363 ]
+
+No adv!
+time: 0.091484 
+
+
+numSplits: 0
+./delta_network_test 1086 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000274 -0.000553 -0.001130 -0.002514 -0.000763 -0.000923 ]
+[0.003410 0.002758 0.002255 0.000732 0.002082 0.004588 ]
+
+No adv!
+time: 0.090431 
+
+
+numSplits: 0
+./delta_network_test 1087 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000561 -0.000861 -0.001482 -0.002735 -0.001136 -0.001382 ]
+[0.003665 0.003006 0.002582 0.001081 0.002321 0.005032 ]
+
+No adv!
+time: 0.093488 
+
+
+numSplits: 0
+./delta_network_test 1088 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000629 -0.001126 -0.001726 -0.002840 -0.001312 -0.001721 ]
+[0.003844 0.003226 0.002807 0.001343 0.002482 0.005263 ]
+
+No adv!
+time: 0.092459 
+
+
+numSplits: 0
+./delta_network_test 1089 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000390 -0.000783 -0.001294 -0.002690 -0.000973 -0.001253 ]
+[0.003633 0.002904 0.002414 0.000791 0.002150 0.004971 ]
+
+No adv!
+time: 0.092053 
+
+
+numSplits: 0
+./delta_network_test 1090 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000891 -0.001211 -0.001884 -0.003103 -0.001402 -0.001782 ]
+[0.003969 0.003281 0.002971 0.001247 0.002599 0.005524 ]
+
+No adv!
+time: 0.091643 
+
+
+numSplits: 0
+./delta_network_test 1091 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000610 -0.001033 -0.001524 -0.002759 -0.001014 -0.001626 ]
+[0.003763 0.002958 0.002585 0.000947 0.002289 0.005137 ]
+
+No adv!
+time: 0.090351 
+
+
+numSplits: 0
+./delta_network_test 1092 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000065 -0.000494 -0.001074 -0.002443 -0.000575 -0.000731 ]
+[0.003325 0.002560 0.002065 0.000535 0.001893 0.004276 ]
+
+No adv!
+time: 0.091633 
+
+
+numSplits: 0
+./delta_network_test 1093 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000125 -0.000622 -0.001097 -0.002468 -0.000819 -0.000925 ]
+[0.003425 0.002730 0.002195 0.000655 0.001929 0.004455 ]
+
+No adv!
+time: 0.090922 
+
+
+numSplits: 0
+./delta_network_test 1094 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[0.000243 -0.000083 -0.000838 -0.002141 -0.000485 -0.000396 ]
+[0.002930 0.002192 0.001868 0.000413 0.001672 0.003752 ]
+
+No adv!
+time: 0.089098 
+
+
+numSplits: 0
+./delta_network_test 1095 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000299 -0.000539 -0.001209 -0.002447 -0.000652 -0.000892 ]
+[0.003400 0.002597 0.002248 0.000632 0.001963 0.004423 ]
+
+No adv!
+time: 0.091770 
+
+
+numSplits: 0
+./delta_network_test 1096 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000365 -0.000677 -0.001226 -0.002597 -0.000888 -0.001105 ]
+[0.003492 0.002829 0.002351 0.000732 0.002012 0.004717 ]
+
+No adv!
+time: 0.091243 
+
+
+numSplits: 0
+./delta_network_test 1097 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000010 -0.000436 -0.000964 -0.002512 -0.000681 -0.000724 ]
+[0.003369 0.002604 0.002097 0.000567 0.001904 0.004371 ]
+
+No adv!
+time: 0.091267 
+
+
+numSplits: 0
+./delta_network_test 1098 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000085 -0.000492 -0.001034 -0.002468 -0.000692 -0.000697 ]
+[0.003386 0.002635 0.002105 0.000597 0.001930 0.004327 ]
+
+No adv!
+time: 0.091747 
+
+
+numSplits: 0
+./delta_network_test 1099 nnet/HAR.nnet compressed_nnets/HAR_pruned.nnet 0.25 -p 0.1
+Initial output delta:
+[-0.000428 -0.000814 -0.001334 -0.002695 -0.001014 -0.001342 ]
+[0.003613 0.002939 0.002448 0.000754 0.002092 0.004830 ]
+
+No adv!
+time: 0.091527 
+
+
+numSplits: 0

@@ -1,0 +1,6 @@
+./delta_network_test 400 nnet/mnist_relu_4_1024.nnet compressed_nnets/mnist_relu_2_512_pruned.nnet
+compressed_nnets/mnist_relu_3_100_pruned.nnet
+compressed_nnets/mnist_relu_4_1024_pruned.nnet 1 -p 3
+Initial output delta:
+[-1.936456 -1.781548 -1.866747 -1.856911 -1.704234 -1.900578 -1.662240 -2.031709 -1.781251 -1.980733 ]
+[1.662595 1.670786 1.836292 1.863488 2.129093 1.812062 1.842082 1.790962 1.892033 1.850600 ]
